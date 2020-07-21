@@ -24,5 +24,11 @@ The dataset for this project originates from the [UCI Machine Learning Repositor
 **There are 3 species of iris flowers**
 
 These are
+1. Iris-Setosa
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg/220px-Kosaciec_szczecinkowaty_Iris_setosa.jpg" title="iris-setosa" height=300px width=300px>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg/220px-Kosaciec_szczecinkowaty_Iris_setosa.jpg" title="iris-setosa" height=300px width=300px>     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Iris_versicolor_3.jpg/220px-Iris_versicolor_3.jpg" title="iris-versicolor" height=300px width=300px>     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Iris_virginica.jpg/220px-Iris_virginica.jpg" title="iris-virginica" height=300px width=300px>
+2. Iris-Versicolor
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Iris_versicolor_3.jpg/220px-Iris_versicolor_3.jpg" title="iris-versicolor" height=300px width=300px>
+
+3. Iris-Virginica
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Iris_virginica.jpg/220px-Iris_virginica.jpg" title="iris-virginica" height=300px width=300px>
